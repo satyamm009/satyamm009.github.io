@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;1,700&family=Poppins:wght@300;400&display=swap; https://www.dropbox.com/s/sxfnsh9cduvqgxv/dr%20kalam%20smiling.jpg?dl=0');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;1,700&family=Poppins:wght@300;400&display=swap');
 
 * {
   padding: 0;
@@ -44,7 +44,7 @@ div[class^="filter"] {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(https://www.dropbox.com/s/sxfnsh9cduvqgxv/dr%20kalam%20smiling.jpg?dl=0);
+  background-image: url(https://github.com/satyamm009/Tribute_Page/blob/main/Project_Tribute%20HTML%20CSS/dr%20Kalam%20Siting.jpg?raw=true);
   background-position: center;
   /* background-color: #FD1C03; */
 }
@@ -264,7 +264,7 @@ p::after {
   justify-content: center;
   align-items: center;
   position: relative;
-/*   background-image: url(https://dl.dropboxusercontent.com/s/hosbyp3xsmw4vts/Muhammad-Ali-during-match-1970-billboard-1548-compressed.jpg?dl=0); */
+/*   background-image: url(); */
 }
 
 .page_3 .quote {
@@ -327,7 +327,7 @@ p::after {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-image: url(https://www.dropbox.com/s/zboduhb97g2ew5e/dr%20kalam%20siting.jpg?dl=0²);
+  background-image: url(https://github.com/satyamm009/Tribute_Page/blob/main/Project_Tribute%20HTML%20CSS/Dr%20Kalam%20Smiling.jpg?raw=true);
 }
 
 .page_5 .quote {
