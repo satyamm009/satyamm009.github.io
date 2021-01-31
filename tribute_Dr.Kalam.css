@@ -108,7 +108,7 @@ p::after {
 .page_1 .image {
   margin: 0 auto;
   position: relative;
-  display: none;     
+  display: none;
 }
 
 @media only screen and (min-width: 768px) {
@@ -342,7 +342,7 @@ p::after {
   font-size: 3em;
 }
 .page_5 .quote .Name {
-  color: #d00000;
+  color: black;
   font-family: "Lobster Two", cursive;
   font-size: 3em;
 }
