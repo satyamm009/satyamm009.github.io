@@ -264,7 +264,7 @@ p::after {
   justify-content: center;
   align-items: center;
   position: relative;
-/*   background-image: url(); */
+  background-image: url(https://github.com/satyamm009/Tribute_Page/blob/main/Project_Tribute%20HTML%20CSS/Kalam%20smiling.jpg?raw=true);
 }
 
 .page_3 .quote {
@@ -319,7 +319,7 @@ p::after {
 
 .page_5 {
   background-position: 40% 25%;
-  background-size: 360%;
+  background-size: 80%;
   height: 100vh;
   width: 100%;
   overflow: hidden;
