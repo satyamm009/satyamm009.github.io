@@ -540,3 +540,10 @@ img {
         right: 5%;
     }
 }
+
+@media only screen and (max-width: 600px) and (min-width: 374px) {
+    .home__img {
+        padding-top: 10px;
+        max-width: 70%;
+    }
+}
